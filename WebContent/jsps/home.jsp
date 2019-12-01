@@ -9,9 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios.
-	Please contact +91-9980923226 for more info. Happy Jenkins Learning.. Thank you. Please Practice.. Jenkins is Heart of DevOps Model</h1>
+<h1 align="center">Welcome to Devops Training.</h1>
+<h1 align="center">keep learning Devops, keep learning Devops,keep learning Devops,keep learning Devops,keep learning Devops,keep learning Devops,keep learning Devops,keep learning Devops, Jenkins is Heart of DevOps Model</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -19,10 +18,10 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
-		Bangalore.
-		+91-9980923226
+		Ankit Chaubey
+		A 1004, The Hyde Park
+		Sector 78, Noida
+		8860379656
 	</span>
 </div>
 <hr>
