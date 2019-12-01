@@ -9,9 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios.
-	Please contact +91-9980923226 for more info. Happy Jenkins Learning.. Thank you. Please Practice.. Jenkins is Heart of DevOps Model</h1>
+<h1 align="center">Welcome to Devops training.</h1>
+<h1 align="center">Building the whole pipeline with java code and this is ant project. Jenkins is Heart of DevOps Model</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
